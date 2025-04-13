@@ -29,8 +29,7 @@
 | Date | Study Hours | Topics Studied | Covered Successfully | Projects/Tasks |
 |------|-------------|----------------|-----------------------|----------------|
 | 13/April/2025 | 1 hrs | Settled Git and Github and Build a Roadmap | ✅ | N/A |
-| --/--/---- | -- hrs | -- | ❌/✅ | -- |
-| --/--/---- | -- hrs | -- | ❌/✅ | -- |
+
 
 
 
