@@ -32,7 +32,7 @@
 | --/--/---- | -- hrs | -- | ❌/✅ | -- |
 | --/--/---- | -- hrs | -- | ❌/✅ | -- |
 
-> ✍️ _Update this table daily to keep track of progress & build discipline._
+
 
 ---
 
