@@ -48,10 +48,20 @@
 
 ## 🧭 Roadmap
 
-```bash
-Phase 1 – HTML, CSS, JS Basics
-Phase 2 – DOM Manipulation & ES6+
-Phase 3 – Git, GitHub, Projects
-Phase 4 – Backend (Node, Express, MongoDB)
-Phase 5 – React, APIs, Full Stack Projects
-Phase 6 – Testing, Deployment & CI/CD
+📍 Phase 1 – Web Foundation Kickoff 🚀
+↳ Tech: HTML5, CSS3, Vanilla JS (ES5)
+
+📍 Phase 2 – JS Mastery + DOM Wizardry 🧙‍♂️
+↳ Tech: JavaScript (ES6+), DOM API, Events
+
+📍 Phase 3 – Git Gud with Git & Real Projects 🧠
+↳ Tech: Git, GitHub, CLI, Markdown, VS Code
+
+📍 Phase 4 – Backend Sorcery ⚙️
+↳ Tech: Node.js, Express.js, MongoDB, Mongoose
+
+📍 Phase 5 – Front to Back 🔄 React + MERN Stack
+↳ Tech: React, REST APIs, React Router, MERN Stack
+
+📍 Phase 6 – Deploy Like a Pro 🚀📦
+↳ Tech: Testing (Jest), CI/CD (GitHub Actions), Docker, Netlify, Vercel, Render
