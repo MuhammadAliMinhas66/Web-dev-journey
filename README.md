@@ -63,5 +63,5 @@
 📍 Phase 5 – Front to Back React + MERN Stack
 ↳ Tech: React, REST APIs, React Router, MERN Stack
 
-📍 Phase 6 – Deploy Like a Pro 🚀📦
+📍 Phase 6 – Deploy Like a Pro 
 ↳ Tech: Testing (Jest), CI/CD (GitHub Actions), Docker, Netlify, Vercel, Render
