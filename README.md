@@ -48,19 +48,19 @@
 
 ## 🧭 Roadmap
 
-📍 Phase 1 – Web Foundation Kickoff 🚀
+📍 Phase 1 – Web Foundation Kickoff 
 ↳ Tech: HTML5, CSS3, Vanilla JS (ES5)
 
-📍 Phase 2 – JS Mastery + DOM Wizardry 🧙‍♂️
+📍 Phase 2 – JS + DOM 
 ↳ Tech: JavaScript (ES6+), DOM API, Events
 
-📍 Phase 3 – Git Gud with Git & Real Projects 🧠
+📍 Phase 3 – GitHub with Git & Real Projects 
 ↳ Tech: Git, GitHub, CLI, Markdown, VS Code
 
-📍 Phase 4 – Backend Sorcery ⚙️
+📍 Phase 4 – Backend
 ↳ Tech: Node.js, Express.js, MongoDB, Mongoose
 
-📍 Phase 5 – Front to Back 🔄 React + MERN Stack
+📍 Phase 5 – Front to Back React + MERN Stack
 ↳ Tech: React, REST APIs, React Router, MERN Stack
 
 📍 Phase 6 – Deploy Like a Pro 🚀📦
